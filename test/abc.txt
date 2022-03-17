@@ -1,0 +1,4 @@
+git ok 
+
+git remote -v // kiểm tra xem đã có liên kết link chưa
+git init 
